@@ -71,6 +71,7 @@ Before using this project, please obtain permission from the author. You can rea
 
 Your understanding and compliance are greatly appreciated!
 
+---
 
 ## 📢 Acknowledgements
 
@@ -79,6 +80,9 @@ Your understanding and compliance are greatly appreciated!
 - Special thanks to [OpenAI’s GPT](https://openai.com/) for assisting in project planning and development.
 
 ---
+
+## 👨‍💻 About Me
+Want to know more about me? Check out the [About Me](ABOUT_ME.md) page!
 
 
    
